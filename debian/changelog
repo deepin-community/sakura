@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+sakura (3.8.8-1) unstable; urgency=medium
 
-  * Initial release
+  * Sync with upstream 3.8.8
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Alphagocc <alphagocc@163.com>  Sun, 20 Oct 2024 12:22:35 +0800

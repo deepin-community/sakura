@@ -1,0 +1,250 @@
+# Portuguese translation for sakura
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the sakura package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sakura\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-10 19:15+0200\n"
+"PO-Revision-Date: 2018-04-29 13:18+0000\n"
+"Last-Translator: David Gómez <david@pleyades.net>\n"
+"Language-Team: Portuguese <pt@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2020-05-06 05:44+0000\n"
+"X-Generator: Launchpad (build fbdff7602bd10fb883bf7e2ddcc7fd5a16f60398)\n"
+
+msgid "Print version number"
+msgstr "Mostrar número da versão"
+
+msgid "Set window title"
+msgstr "Definir título da janela"
+
+msgid "Select initial terminal font"
+msgstr "Escolha o tipo inicial de letra do terminal"
+
+msgid "Select initial number of tabs"
+msgstr "Escolha o número inicial de separadores"
+
+msgid "Set working directory"
+msgstr "Definir diretório de trabalho"
+
+msgid "Execute command"
+msgstr "Executar comando"
+
+msgid "Execute command (last option in the command line)"
+msgstr "Executar comando (última opção da linha de comandos)"
+
+msgid "Login shell"
+msgstr ""
+
+msgid "Set window icon"
+msgstr "Definir ícone de janela"
+
+msgid "Set columns number"
+msgstr "Definir número de colunas"
+
+msgid "Set rows number"
+msgstr "Definir número de linhas"
+
+msgid "Hold window after execute command"
+msgstr ""
+
+msgid "Maximize window"
+msgstr "Maximizar janela"
+
+msgid "Fullscreen mode"
+msgstr "Ecrã completo"
+
+msgid "Use alternate configuration file"
+msgstr "Utilizar ficheiro alternativo de configurações"
+
+msgid "Select initial colorset"
+msgstr "Escolha conjunto de cores inicial"
+
+msgid ""
+"There are running processes.\n"
+"\n"
+"Do you really want to close Sakura?"
+msgstr ""
+"Existem processos em curso.\n"
+"\n"
+"Quer mesmo fechar o Sakura?"
+
+msgid "Select font"
+msgstr "Escolha o tipo de letra"
+
+msgid "Set tab name"
+msgstr "Definir nome do separador"
+
+msgid "_Cancel"
+msgstr "_Cancelar"
+
+msgid "_Apply"
+msgstr "_Aplicar"
+
+msgid "New text"
+msgstr "Novo texto"
+
+msgid "Select colors"
+msgstr "Escolha a cor"
+
+msgid "_Select"
+msgstr "_Selecionar"
+
+msgid "Colorset"
+msgstr "Conjunto de cores"
+
+msgid "Color scheme"
+msgstr "Esquema de cores"
+
+msgid "Foreground color"
+msgstr "Cor de primeiro plano"
+
+msgid "Background color"
+msgstr "Cor de fundo"
+
+msgid "Cursor color"
+msgstr "Cor do cursor"
+
+msgid "Opacity level (%)"
+msgstr "Nivel de opacidade (%)"
+
+msgid "Palette"
+msgstr "Palete"
+
+msgid "Use bright colors for bold text"
+msgstr ""
+
+msgid "New window title"
+msgstr "Título da nova janela"
+
+msgid "Open mail"
+msgstr "Abrir correio"
+
+msgid "Open link"
+msgstr "Abrir ligação"
+
+msgid "Copy link"
+msgstr "Copiar ligação"
+
+msgid "New tab"
+msgstr "Novo separador"
+
+msgid "Set tab name..."
+msgstr "Definir nome do separador"
+
+msgid "Close tab"
+msgstr "Fechar separador"
+
+msgid "Full screen"
+msgstr "Ecrã completo"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Paste"
+msgstr "Colar"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Select font..."
+msgstr "Escolha o tipo de letra..."
+
+msgid "Select colors..."
+msgstr "Escolha as cores..."
+
+msgid "Show tab bar"
+msgstr "Mostrar barra de separadores"
+
+msgid "Always"
+msgstr "Sempre"
+
+msgid "When there's more than one tab"
+msgstr ""
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "Tabs at bottom"
+msgstr "Separadores em baixo"
+
+msgid "New tab after current tab"
+msgstr ""
+
+msgid "Show scrollbar"
+msgstr "Mostrar barra de deslocação"
+
+msgid "Fewer questions at exit time"
+msgstr ""
+
+msgid "Automatically copy selected text"
+msgstr ""
+
+msgid "Set urgent bell"
+msgstr "Definir sinal urgente"
+
+msgid "Set audible bell"
+msgstr "Definir sinal sonoro"
+
+msgid "Set blinking cursor"
+msgstr "Definir cursor intermitente"
+
+msgid "Disable numbered tabswitch"
+msgstr ""
+
+msgid "Set cursor type"
+msgstr "Definir tipo de cursor"
+
+msgid "Block"
+msgstr "Bloco"
+
+msgid "Underline"
+msgstr "Sublinhado"
+
+msgid "IBeam"
+msgstr "IBeam"
+
+msgid "Search"
+msgstr "Pesquisar"
+
+#, c-format
+msgid "Terminal %d"
+msgstr "Terminal %d"
+
+msgid ""
+"There is a running process in this terminal.\n"
+"\n"
+"Do you really want to close it?"
+msgstr ""
+"Ainda existem processos em curso neste terminal.\n"
+"\n"
+"Quer mesmo fechar o terminal?"
+
+msgid "Configuration has been modified by another process. Overwrite?"
+msgstr "A configuração foi modificada por outro processo. Substituir?"
+
+msgid "Error message"
+msgstr "Mensagem de erro"
+
+#, c-format
+msgid "Cannot change working directory\n"
+msgstr "Não pode mudar o diretório de trabalho\n"
+
+msgid "- vte-based terminal emulator"
+msgstr "- Emulador de terminal vte-based"
+
+#, c-format
+msgid "sakura version is %s\n"
+msgstr "A versão do sakura é a %s\n"
+
+#~ msgid "Show close button on tabs"
+#~ msgstr "Mostrar botão para fechar separadores"
+
+#~ msgid "Enable focus fade"
+#~ msgstr "Habilitar enfranquecimiento do foco"
